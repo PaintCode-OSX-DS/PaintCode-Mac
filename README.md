@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0P2s1i6WDg2WyBiP3Qaj_LqK9KBVAcN3IOA&s" width="824" alt="Interface"/>
+<img src="https://mac-cdn.softpedia.com/screenshots/paintcode_8.jpg" width="824" alt="Interface"/>
 
 </div>
 
